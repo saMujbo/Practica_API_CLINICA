@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "0FCYYICFO0AhXM4vJekwR66b81wI98YIOz9Tnf7Lam/GOviiWvVCA+F0m+k4YBTbQJbVsZ5rCtFpxy/9dqEwUA==",
+  "success": true,
+  "projectFilePath": "C:\\programacion II\\practica_clinica-API\\Clinica\\Clinica\\Clinica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.18\\microsoft.aspnetcore.openapi.7.0.18.nupkg.sha512",
+    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Samue\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Samue\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Samue\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Samue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Samue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Samue\\.nuget\\packages\\swashbukle.aspnetcore\\1.0.2\\swashbukle.aspnetcore.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programacion II\\practica_clinica-API\\Clinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|c:\\programacion ii\\practica_clinica-api\\clinica\\services\\servclinic\\svclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|solutionrelative:services\\servclinic\\svclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|c:\\programacion ii\\practica_clinica-api\\clinica\\services\\servmedicfile\\svmedicfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|solutionrelative:services\\servmedicfile\\svmedicfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|c:\\programacion ii\\practica_clinica-api\\clinica\\services\\servuser\\svuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|solutionrelative:services\\servuser\\svuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|c:\\programacion ii\\practica_clinica-api\\clinica\\services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|solutionrelative:services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|c:\\programacion ii\\practica_clinica-api\\clinica\\services\\servuser\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|solutionrelative:services\\servuser\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|c:\\programacion ii\\practica_clinica-api\\clinica\\services\\servmedicfile\\imedicfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|solutionrelative:services\\servmedicfile\\imedicfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|c:\\programacion ii\\practica_clinica-api\\clinica\\services\\servclinic\\iclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|solutionrelative:services\\servclinic\\iclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC6326-A639-4D17-AE99-AAEF06847A16}|Entidades\\Entidades.csproj|c:\\programacion ii\\practica_clinica-api\\clinica\\entidades\\medicfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FC6326-A639-4D17-AE99-AAEF06847A16}|Entidades\\Entidades.csproj|solutionrelative:entidades\\medicfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC6326-A639-4D17-AE99-AAEF06847A16}|Entidades\\Entidades.csproj|c:\\programacion ii\\practica_clinica-api\\clinica\\entidades\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FC6326-A639-4D17-AE99-AAEF06847A16}|Entidades\\Entidades.csproj|solutionrelative:entidades\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|c:\\programacion ii\\practica_clinica-api\\clinica\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140BF1C1-9D41-416F-8DB6-285DFFD63A23}|Services\\Services.csproj|solutionrelative:services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FC6326-A639-4D17-AE99-AAEF06847A16}|Entidades\\Entidades.csproj|c:\\programacion ii\\practica_clinica-api\\clinica\\entidades\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FC6326-A639-4D17-AE99-AAEF06847A16}|Entidades\\Entidades.csproj|solutionrelative:entidades\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SvMedicFile.cs",
+              "DocumentMoniker": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServMedicFIle\\SvMedicFile.cs",
+              "RelativeDocumentMoniker": "Services\\ServMedicFIle\\SvMedicFile.cs",
+              "ToolTip": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServMedicFIle\\SvMedicFile.cs",
+              "RelativeToolTip": "Services\\ServMedicFIle\\SvMedicFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:19:44.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SvUser.cs",
+              "DocumentMoniker": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServUser\\SvUser.cs",
+              "RelativeDocumentMoniker": "Services\\ServUser\\SvUser.cs",
+              "ToolTip": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServUser\\SvUser.cs",
+              "RelativeToolTip": "Services\\ServUser\\SvUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:20:16.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SvClinic.cs",
+              "DocumentMoniker": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServClinic\\SvClinic.cs",
+              "RelativeDocumentMoniker": "Services\\ServClinic\\SvClinic.cs",
+              "ToolTip": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServClinic\\SvClinic.cs",
+              "RelativeToolTip": "Services\\ServClinic\\SvClinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:19:02.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\MyDbContext\\MyContext.cs",
+              "RelativeDocumentMoniker": "Services\\MyDbContext\\MyContext.cs",
+              "ToolTip": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\MyDbContext\\MyContext.cs",
+              "RelativeToolTip": "Services\\MyDbContext\\MyContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:22:30.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsers.cs",
+              "DocumentMoniker": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServUser\\IUsers.cs",
+              "RelativeDocumentMoniker": "Services\\ServUser\\IUsers.cs",
+              "ToolTip": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServUser\\IUsers.cs",
+              "RelativeToolTip": "Services\\ServUser\\IUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:14:51.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMedicFile.cs",
+              "DocumentMoniker": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServMedicFIle\\IMedicFile.cs",
+              "RelativeDocumentMoniker": "Services\\ServMedicFIle\\IMedicFile.cs",
+              "ToolTip": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServMedicFIle\\IMedicFile.cs",
+              "RelativeToolTip": "Services\\ServMedicFIle\\IMedicFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:17:53.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClinic.cs",
+              "DocumentMoniker": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServClinic\\IClinic.cs",
+              "RelativeDocumentMoniker": "Services\\ServClinic\\IClinic.cs",
+              "ToolTip": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\ServClinic\\IClinic.cs",
+              "RelativeToolTip": "Services\\ServClinic\\IClinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:16:30.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Medicfile.cs",
+              "DocumentMoniker": "C:\\programacion II\\practica_clinica-API\\Clinica\\Entidades\\Medicfile.cs",
+              "RelativeDocumentMoniker": "Entidades\\Medicfile.cs",
+              "ToolTip": "C:\\programacion II\\practica_clinica-API\\Clinica\\Entidades\\Medicfile.cs",
+              "RelativeToolTip": "Entidades\\Medicfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:02:36.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Clinic.cs",
+              "DocumentMoniker": "C:\\programacion II\\practica_clinica-API\\Clinica\\Entidades\\Clinic.cs",
+              "RelativeDocumentMoniker": "Entidades\\Clinic.cs",
+              "ToolTip": "C:\\programacion II\\practica_clinica-API\\Clinica\\Entidades\\Clinic.cs",
+              "RelativeToolTip": "Entidades\\Clinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:59:50.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Program.cs",
+              "ToolTip": "C:\\programacion II\\practica_clinica-API\\Clinica\\Services\\Program.cs",
+              "RelativeToolTip": "Services\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:14:38.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\programacion II\\practica_clinica-API\\Clinica\\Entidades\\User.cs",
+              "RelativeDocumentMoniker": "Entidades\\User.cs",
+              "ToolTip": "C:\\programacion II\\practica_clinica-API\\Clinica\\Entidades\\User.cs",
+              "RelativeToolTip": "Entidades\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:01:30.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
